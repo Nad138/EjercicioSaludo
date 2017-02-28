@@ -1,3 +1,4 @@
 function saludito(){
-  console.log("Hola Mundo!!");
+  return "Hola Mundo!!";
 }
+ console.log(saludito());
